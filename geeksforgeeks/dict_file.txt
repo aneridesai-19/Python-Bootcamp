@@ -1,0 +1,4 @@
+Name:Aneri 
+Age:20 
+Degree:BTech 
+Domain:AI/ML 
