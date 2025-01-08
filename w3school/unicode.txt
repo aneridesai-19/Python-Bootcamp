@@ -1,0 +1,2 @@
+This is a sample file with some special characters:
+é è ç ñ ü
